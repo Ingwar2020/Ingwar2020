@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ingwar2020
+- 👋 Hi, I’m Igor
 - 👀 I’m interested in creating websites and apps
 - 🌱 I’m currently learning JavaScript
 
